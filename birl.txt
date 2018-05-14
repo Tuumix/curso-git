@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "texto"
+git checkout dev
+git push 
